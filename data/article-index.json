@@ -2,7 +2,7 @@
   "first-blog": {
     "name": "This is my first blog",
     "description": "its about the start of everything",
-    "md": "github.com/DONPOM/donpom.github.io/data/first-blog.md",
+    "md": "https://donpom.github.io/data/first-blog.md",
     "thumbnail":""
   }
 }
